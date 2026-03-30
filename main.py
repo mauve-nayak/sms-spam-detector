@@ -2,10 +2,6 @@
 # Requirements: pandas scikit-learn joblib
 # pip install pandas scikit-learn joblib
 
-# DEVELOPED BY: ARJUN AGNIHOTRI
-# https://www.arjunagnihotri.com/
-
-
 import os
 import sys
 import pandas as pd
