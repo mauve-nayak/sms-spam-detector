@@ -2,13 +2,6 @@
 
 Spam messages are a major nuisance for users, often containing fraudulent links, scams, or unwanted promotional content. Manually identifying such spam is time-consuming and unreliable. The goal of this project is to automate the process of detecting whether an SMS message is **spam** or **ham (not spam)** using machine learning and text processing techniques.
 
----
-
-## ARJUN AGNIHOTRI
-
-```bash
-https://www.arjunagnihotri.com/
-```
 
 # Scope of the Project
 
