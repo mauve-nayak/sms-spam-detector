@@ -5,12 +5,6 @@ It uses TF-IDF vectorization and a Logistic Regression model with additional cha
 
 ---
 
-## ARJUN AGNIHOTRI
-
-```bash
-https://www.arjunagnihotri.com/
-```
-
 ## 📌 Overview
 
 This project provides an end-to-end SMS Spam Detection system using Python and scikit-learn. It:
